@@ -1,0 +1,9 @@
+.button-play {
+    background: var(--primary-color);
+    border: 0;
+    border-radius: 5px;
+    color: var(--white);
+    cursor: pointer;
+    margin-top: 30px;
+    padding: 8px 15px;
+}
