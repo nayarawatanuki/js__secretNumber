@@ -17,7 +17,7 @@
 ## :pencil: Descrição do Projeto
 O projeto **[Número secreto](https://nayarawatanuki.github.io/js__secretNumber/)**, é uma proposta de um jogo, onde o objetivo é adivinhar o número secreto, contruído em HTML, CSS e JavaScript. 
 Esse projeto contém o objetivo de conhecer e profundar conhecimentos sobre validções e reconhecimento de voz, via Javascript. 
-</br>Desenvolvido para o curso de **JAVASCRIPT - VALIDAÇÕES E RECONHECIMENTO DE VOZ** da plataforma [Alura](https://www.alura.com.br/).
+</br>Desenvolvido para o curso de **JAVASCRIPT: VALIDAÇÕES E RECONHECIMENTO DE VOZ** da plataforma [Alura](https://www.alura.com.br/).
 
 </br>
 
